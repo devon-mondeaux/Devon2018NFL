@@ -1543,7 +1543,7 @@ WR,Tre'Quan Smith,22,2018,72,64,93,81,89,70,0.9,4
 WR,Michael Thomas,25,2016,91,97,88,95,89,78,1.3,4
 END_PLAYERS
 Carolina Panthers, CAR
-OL,Ryan Kalil,33,2007,76,90,88,89,73,75,8.4,2
+OL,Ryan Kalil,33,2007,75,90,88,89,73,75,8.4,2
 OL,Tyler Larsen,27,2016,70,70,80,93,76,73,2.2,2
 CB,James Bradberry,25,2016,78,76,88,75,91,63,1.0,4
 CB,Lorenzo Doss,24,2015,67,63,87,71,89,39,0.4,1
