@@ -1,4 +1,4 @@
-Baltimore Ravens, BAL
+West Jordan, WJHS
 OL,Bradley Bozeman,24,2018,64,60,82,80,74,72,0.6,4
 OL,Hroniss Grasu,27,2015,64,74,83,78,72,69,0.8,1
 OL,Matt Skura,25,2017,65,71,85,86,71,71,0.6,1
@@ -64,7 +64,7 @@ WR,Jaleel Scott,23,2018,69,59,88,80,87,60,0.8,4
 WR,Willie Snead,26,2014,76,74,91,83,89,76,3.5,2
 WR,Tim White,24,2018,55,49,90,76,89,81,0.5,1
 END_PLAYERS
-Cleveland Browns, CLE
+Copper Hills, CHHS
 OL,J.C. Tretter,27,2013,77,78,88,89,74,81,5.6,3
 S,Briean Boddy-Calhoun,25,2016,80,80,88,83,90,65,0.5,3
 CB,Terrance Mitchell,26,2014,75,71,92,74,89,56,3.3,3
@@ -123,7 +123,7 @@ WR,Damion Ratley,23,2018,67,51,89,80,93,79,0.7,4
 WR,Rod Streater,30,2012,70,72,90,83,88,71,0.8,1
 WR,Derrick Willies,24,2018,64,57,86,85,91,63,0.6,3
 END_PLAYERS
-Cincinnati Bengals, CIN
+Lone Peak, LPHS
 OL,Billy Price,23,2018,75,64,87,88,81,79,2.9,4
 CB,Davontae Harris,23,2018,68,56,90,76,91,56,0.7,4
 CB,William Jackson,26,2016,84,81,91,85,93,54,2.4,4
@@ -184,7 +184,7 @@ WR,Josh Malone,22,2017,70,68,86,83,92,64,0.7,4
 WR,John Ross,24,2017,76,63,92,82,97,85,4.3,4
 WR,Auden Tate,21,2018,68,57,87,80,85,62,0.6,4
 END_PLAYERS
-Pittsburgh Steelers, PIT
+Bingham, BHS
 OL,B.J. Finney,27,2016,70,70,84,84,73,77,0.6,1
 OL,Maurkice Pouncey,29,2010,85,90,88,91,73,84,8.8,5
 CB,Artie Burns,23,2016,81,82,90,81,91,57,2.4,4
@@ -249,7 +249,7 @@ WR,JuJu Smith-Schuster,22,2017,80,81,94,88,89,74,1.0,4
 WR,Ryan Switzer,24,2017,74,67,95,83,90,78,0.7,4
 WR,James Washington,22,2018,74,55,94,83,90,69,1.1,4
 END_PLAYERS
-Buffalo Bills, BUF
+Herriman, HHS
 OL,Russell Bodine,26,2014,73,77,83,97,73,75,2.5,2
 OL,Ryan Groy,28,2014,69,75,78,86,78,70,2.5,2
 CB,Taron Johnson,22,2018,68,56,86,74,89,60,0.8,4
@@ -305,7 +305,7 @@ WR,Andre Holmes,30,2012,75,79,84,83,87,75,1.7,3
 WR,Zay Jones,23,2017,75,75,92,86,90,70,1.7,4
 WR,Ray-Ray McCloud,22,2018,68,53,88,84,88,81,0.7,4
 END_PLAYERS
-New England Patriots, NE
+East Leopards, EHS
 OL,David Andrews,26,2015,84,94,88,86,86,82,3.0,3
 OL,Shaq Mason,25,2015,83,89,75,87,87,77,9.0,5
 OL,Brian Schwenke,27,2013,68,74,71,84,61,91,0.8,1
@@ -368,7 +368,7 @@ WR,Chris Hogan,30,2012,83,88,87,92,88,62,4.0,3
 WR,Cordarrelle Patterson,27,2013,76,72,90,84,91,93,4.3,2
 WR,Matthew Slater,33,2008,68,85,89,75,86,71,2.6,2
 END_PLAYERS
-Miami Dolphins, MIA
+West High, WHS
 OL,Jake Brendel,26,2016,62,55,90,80,75,72,0.6,1
 OL,Daniel Kilgore,31,2011,73,84,75,89,75,75,3.9,3
 OL,Ted Larsen,31,2010,67,72,83,79,70,74,1.9,3
@@ -428,7 +428,7 @@ WR,DeVante Parker,25,2015,81,85,88,85,91,66,2.7,4
 WR,Kenny Stills,26,2013,84,93,90,88,92,84,8.0,4
 WR,Albert Wilson,26,2014,77,85,88,84,91,81,8.0,3
 END_PLAYERS
-New York Jets, NYJ
+Taylorsville, THS
 OL,Jonotthan Harrison,27,2014,68,74,82,87,71,71,0.9,1
 OL,Spencer Long,28,2014,74,85,85,88,73,75,6.9,4
 CB,Juston Burris,25,2016,70,63,90,68,88,62,0.7,4
@@ -487,7 +487,7 @@ WR,Charone Peake,26,2016,65,50,88,76,93,74,0.6,4
 WR,Terrelle Pryor Sr,29,2011,75,86,91,84,90,77,4.5,1
 WR,Andre Roberts,30,2010,71,81,88,89,90,47,1.0,1
 END_PLAYERS
-Tennessee Titans, TEN
+Kearns, KHS
 OL,Ben Jones,29,2012,80,87,90,88,78,81,4.4,4
 CB,Adoree' Jackson,23,2017,83,76,93,84,93,70,2.8,4
 CB,LeShaun Sims,25,2016,74,78,90,67,88,49,0.6,4
@@ -549,7 +549,7 @@ WR,Tajae Sharpe,24,2016,75,74,88,86,87,77,0.7,4
 WR,Taywan Taylor,23,2017,76,67,93,82,92,82,0.9,4
 WR,Nick Williams,28,2013,64,60,88,80,85,71,0.7,1
 END_PLAYERS
-Jacksonville Jaguars, JAX
+Pleasant Grove, PG
 OL,Brandon Linder,26,2014,89,89,79,89,89,90,10.3,5
 OL,Tyler Shatley,27,2014,66,66,75,95,72,69,1.0,2
 CB,Tre Herndon,22,2018,67,68,89,91,80,56,0.6,3
@@ -610,7 +610,7 @@ WR,Jaydon Mickens,24,2017,69,68,93,78,89,83,0.5,2
 WR,Donte Moncrief,25,2014,79,78,92,88,92,66,9.6,1
 WR,Dede Westbrook,25,2017,80,79,95,88,93,81,0.8,4
 END_PLAYERS
-Houston Texans, HOU
+Provo Bulldogs, PHS
 OL,Greg Mancz,26,2015,65,68,86,87,72,72,3.0,2
 OL,Nick Martin,25,2016,71,80,89,85,77,75,1.2,4
 CB,Kevin Johnson,26,2015,74,78,92,68,88,64,2.5,4
@@ -669,7 +669,7 @@ WR,Will Fuller,24,2016,83,85,95,93,92,59,2.5,4
 WR,DeAndre Hopkins,26,2013,94,92,95,98,92,78,16.2,5
 WR,Vyncint Smith,22,2018,65,65,65,65,65,65,0.6,3
 END_PLAYERS
-Indianapolis Colts, IND
+Mountain View, MVHS
 OL,Ryan Kelly,25,2016,76,82,87,86,73,78,2.6,4
 CB,Nate Hairston,24,2017,72,67,87,74,88,63,0.7,4
 CB,Arthur Maulet,25,2018,66,57,89,68,86,62,0.6,3
@@ -736,7 +736,7 @@ WR,Zach Pascal,24,2018,66,68,87,92,91,72,0.5,2
 WR,Chester Rogers,24,2016,74,77,91,84,89,77,0.5,3
 WR,James Wright,27,2014,70,70,70,70,70,70,0.7,2
 END_PLAYERS
-Kansas City Chiefs, KAN
+Timpview, THS
 OL,Tejan Koroma,22,2018,59,51,82,86,72,70,0.6,3
 OL,Mitch Morse,26,2015,73,85,82,92,72,73,1.2,4
 OL,Austin Reiter,27,2015,62,56,84,77,77,72,0.6,1
@@ -797,7 +797,7 @@ WR,Demarcus Robinson,24,2016,75,76,90,81,88,71,0.7,4
 WR,De'Anthony Thomas,25,2014,71,75,81,78,92,87,0.9,1
 WR,Sammy Watkins,25,2014,83,78,95,86,92,89,16.0,3
 END_PLAYERS
-Denver Broncos, DEN
+Orem, OHS
 OL,Matt Paradis,29,2014,81,88,80,90,75,82,2.9,1
 CB,Isaac Yiadom,22,2018,70,57,92,77,90,61,0.8,4
 CB,Tramaine Brock,30,2010,72,69,87,91,87,64,3.0,1
@@ -859,7 +859,7 @@ WR,Courtland Sutton,23,2018,75,64,96,83,89,73,1.7,4
 WR,Jordan Taylor,26,2016,70,72,88,82,88,55,0.6,1
 WR,Demaryius Thomas,31,2010,88,92,90,87,91,65,14.0,5
 END_PLAYERS
-Los Angeles Chargers, LAC
+Skyridge, SHS
 OL,Mike Pouncey,29,2011,75,81,82,88,74,77,7.5,2
 OL,Scott Quessenberry,23,2018,65,57,85,82,73,75,0.7,4
 CB,Michael Davis,23,2017,67,57,87,68,92,63,0.6,3
@@ -922,7 +922,7 @@ WR,Artavis Scott,24,2017,62,52,93,80,88,76,0.5,1
 WR,Mike Williams,24,2017,79,78,96,87,89,80,4.9,4
 WR,Tyrell Williams,26,2015,82,85,87,86,91,72,2.9,1
 END_PLAYERS
-Oakland Raiders, OAK
+HillCrest, HHS
 OL,Rodney Hudson,29,2011,95,88,85,90,82,94,8.9,5
 CB,Gareon Conley,23,2017,77,73,91,74,91,62,2.6,4
 CB,Dexter McDonald,27,2015,74,72,86,77,91,45,0.6,4
@@ -987,7 +987,7 @@ WR,Brandon LaFell,32,2010,79,87,88,88,86,65,1.8,1
 WR,Jordy Nelson,33,2008,86,90,96,96,88,74,7.1,2
 WR,Seth Roberts,27,2014,77,83,84,83,90,73,4.0,3
 END_PLAYERS
-Chicago Bears, CHI
+Juan Diego, JDHS
 OL,James Daniels,21,2018,74,70,86,83,79,79,1.7,4
 OL,Eric Kush,29,2013,63,64,82,79,73,71,1.4,2
 OL,Cody Whitehair,26,2016,81,85,88,87,87,76,1.1,4
@@ -1047,7 +1047,7 @@ WR,Allen Robinson,25,2014,87,90,91,89,90,75,14.0,3
 WR,Kevin White,26,2015,73,68,89,81,93,61,4.1,4
 WR,Javon Wims,24,2018,68,57,89,83,88,74,0.6,4
 END_PLAYERS
-Green Bay Packers, GB
+Summit High School, SHS
 OL,Corey Linsley,27,2014,77,88,82,91,73,78,8.5,3
 CB,Jaire Alexander,21,2018,77,65,95,77,93,53,3.0,4
 CB,Josh Jackson,22,2018,75,65,92,83,90,58,1.6,4
@@ -1106,7 +1106,7 @@ WR,J'Mon Moore,23,2018,69,59,94,78,87,74,0.7,4
 WR,Equanimeous St. Brown,22,2018,67,54,90,79,90,72,0.6,4
 WR,Marquez Valdes-Scantling,24,2018,70,58,88,79,93,73,0.7,4
 END_PLAYERS
-Minnesota Vikings, MIN
+Stansbury, SHS
 OL,Pat Elflein,24,2017,75,82,88,88,76,78,0.9,4
 OL,Brett Jones,27,2016,72,68,83,84,73,81,2.9,1
 CB,Mackensie Alexander,25,2016,73,71,90,68,90,46,1.1,4
@@ -1171,7 +1171,7 @@ WR,Adam Thielen,28,2014,88,87,85,93,90,77,4.8,4
 WR,Laquon Treadwell,23,2016,73,78,92,84,87,67,2.5,4
 WR,Brandon Zylstra,25,2018,63,54,84,78,85,66,0.5,2
 END_PLAYERS
-Detroit Lions, DET
+Murray High School, MHS
 OL,Frank Ragnow,22,2018,76,67,92,92,79,78,2.9,4
 CB,Jamal Agnew,23,2017,69,51,91,71,93,66,0.7,4
 CB,Quandre Diggs,25,2015,77,85,90,79,87,62,6.2,3
@@ -1229,7 +1229,7 @@ WR,T.J. Jones,26,2014,76,78,91,85,90,77,0.4,1
 WR,Brandon Powell,22,2018,62,43,86,89,86,50,0.6,3
 WR,Golden Tate,30,2010,89,94,90,91,96,70,6.2,5
 END_PLAYERS
-Washington Redskins, WAS
+Jordan Beetdiggers, JHS
 OL,Tony Bergstrom,32,2012,66,64,87,83,72,73,0.9,1
 OL,Casey Dunn,24,2018,62,59,72,80,60,80,0.6,3
 OL,Chase Roullier,25,2017,68,68,81,85,73,75,0.6,4
@@ -1294,7 +1294,7 @@ WR,Trey Quinn,23,2018,69,56,90,85,87,66,0.6,4
 WR,Paul Richardson,26,2014,83,85,94,92,88,70,8.0,5
 WR,Cam Sims,22,2018,66,62,87,89,82,60,0.6,3
 END_PLAYERS
-Dallas Cowboys, DAL
+Alta Hawks, AHS
 OL,Travis Frederick,27,2013,96,98,95,93,94,91,9.4,6
 OL,Joe Looney,28,2012,64,66,83,82,74,71,1.1,2
 OL,Adam Redmond,25,2016,65,55,80,83,72,73,0.5,2
@@ -1313,15 +1313,15 @@ DL,Taco Charlton,24,2017,77,68,83,78,67,68,2.5,4
 DL,Tyrone Crawford,29,2012,80,82,82,81,81,82,9.0,5
 DL,Randy Gregory,26,2015,88,84,86,89,83,94,1.0,25
 DL,Datone Jones,28,2013,71,70,76,81,74,70,0.8,2
-DL,Demarcus Lawrence,26,2014,91,90,96,96,97,90,0.1,25
+DL,DL 1,20,2018,99,99,99,99,99,99,0.1,25
 DL,Maliek Collins,23,2016,76,76,79,84,67,76,0.9,4
 DL,David Irving,25,2015,82,82,82,88,70,82,2.9,1
 DL,Daniel Ross,25,2017,63,54,78,85,66,54,0.5,2
 K,Brett Maher,29,2018,76,74,75,77,71,75,0.5,2
 LB,Chris Covington,22,2018,66,52,87,81,70,60,0.7,4
-LB,Sean Lee,32,2010,96,97,95,97,97,91,7.0,6
+LB,LB2,20,2018,99,99,99,99,99,99,0.5,25
 LB,Justin March-Lillard,25,2016,72,65,87,82,76,63,0.4,2
-LB,Jaylon Smith,23,2016,95,92,96,83,97,98,1.6,25
+LB,LB1,20,2018,99,99,99,99,99,99,1.6,25
 LB,Joe Thomas,27,2014,70,72,84,80,72,71,1.8,2
 LB,Leighton Vander Esch,21,2018,97,93,99,85,98,91,0.5,25
 LB,Damien Wilson,25,2015,73,75,83,81,75,55,0.7,4
@@ -1339,8 +1339,8 @@ OL,Tyron Smith,28,2011,95,97,88,96,89,93,12.2,8
 K,Chris Jones,29,2013,87,90,81,17,17,74,2.2,4
 QB,Dak Prescott,25,2016,82,86,93,91,83,74,0.7,4
 QB,Cooper Rush,25,2017,79,62,72,78,65,69,0.6,3
-QB,Trace Mcsorley,20,2018,120,60,120,61,78,28,0.7,4
-RB,Ezekiel Elliott,23,2016,120,110,110,110,110,110,0.2,25
+QB,QB1,20,2018,99,99,120,99,99,99,0.7,25
+RB,RB1,20,2016,99,99,99,99,99,99,0.2,25
 RB,Jamize Olawale,29,2012,71,75,81,86,86,62,2.0,3
 RB,Rod Smith,26,2015,71,76,87,81,86,68,0.7,2
 WR,Rico Gathers,24,2016,69,62,86,79,79,48,0.6,3
@@ -1350,14 +1350,14 @@ WR,Geoff Swaim,25,2015,73,70,78,74,82,45,0.6,4
 WR,Tavon Austin,28,2013,80,72,91,77,94,82,7.0,1
 WR,Cole Beasley,29,2012,81,85,94,87,87,83,3.4,4
 WR,Noah Brown,22,2017,68,58,88,85,87,64,0.6,4
-WR,Amari Cooper,24,2015,86,88,91,85,92,88,5.7,4
+WR,WR1,20,2018,99,99,99,99,99,99,0.7,25
 WR,Michael Gallup,22,2018,73,60,92,81,89,80,0.9,4
 WR,Allen Hurns,27,2014,81,84,89,89,88,77,6.0,2
 WR,Deonte Thompson,29,2012,75,77,85,84,92,73,0.8,1
 WR,Terrance Williams,29,2013,79,85,90,83,89,73,4.3,4
 WR,Cedrick Wilson,23,2018,70,57,90,81,88,82,0.6,4
 END_PLAYERS
-Philadelphia Eagles, PHI
+Corner Canyon, CCHS
 OL,Jason Kelce,31,2011,92,97,81,85,98,80,6.3,6
 OL,Stefen Wisniewski,29,2011,79,84,84,85,83,75,2.7,3
 CB,Ronald Darby,24,2015,86,85,92,84,93,66,1.1,4
@@ -1419,7 +1419,7 @@ WR,Alshon Jeffery,28,2012,90,94,90,92,89,63,13.0,4
 WR,Jordan Matthews,26,2014,77,82,94,83,90,67,0.8,1
 WR,Mike Wallace,32,2009,83,84,97,86,92,87,4.0,1
 END_PLAYERS
-New York Giants, NYG
+Brighton Bengals, BHS
 OL,Evan Brown,22,2018,59,45,71,78,55,93,0.6,3
 OL,Spencer Pulley,25,201,66,78,81,83,73,68,0.5,3
 CB,Eli Apple,23,2016,74,75,90,68,92,51,3.8,4
@@ -1481,7 +1481,7 @@ WR,Cody Latimer,26,2014,72,65,88,79,90,55,2.5,1
 WR,Russell Shepard,28,2013,72,82,87,81,90,74,1.3,1
 WR,Sterling Shepard,25,2016,82,87,91,88,90,83,1.5,4
 END_PLAYERS
-New Orleans Saints, NO
+Fremont, FHS
 OL,Will Clapp,23,2018,62,62,84,76,73,73,0.6,4
 OL,Cameron Tom,23,2018,61,48,79,85,72,73,0.5,2
 OL,Max Unger,32,2009,82,95,85,87,74,80,7.4,3
@@ -1542,7 +1542,7 @@ WR,Cameron Meredith,26,2015,83,84,88,89,89,76,4.8,2
 WR,Tre'Quan Smith,22,2018,72,64,93,81,89,70,0.9,4
 WR,Michael Thomas,25,2016,91,97,88,95,89,78,1.3,4
 END_PLAYERS
-Carolina Panthers, CAR
+Viewmont, VHS
 OL,Ryan Kalil,33,2007,76,90,88,89,73,75,8.4,2
 OL,Tyler Larsen,27,2016,70,70,80,93,76,73,2.2,2
 CB,James Bradberry,25,2016,78,76,88,75,91,63,1.0,4
@@ -1607,7 +1607,7 @@ WR,Curtis Samuel,22,2017,74,73,89,81,95,78,1.6,4
 WR,Torrey Smith,29,2011,78,86,95,85,89,77,5.0,3
 WR,Jarius Wright,29,2012,76,82,94,82,91,85,2.5,3
 END_PLAYERS
-Tampa Bay Buccaneers, TB
+Olympus, OHS
 OL,Evan Smith,32,2009,73,76,83,85,80,73,2.0,2
 CB,Amari Coleman,22,2018,65,65,65,65,65,65,0.5,1
 CB,Carlton Davis,22,2018,71,63,92,73,88,60,1.1,4
@@ -1670,7 +1670,7 @@ WR,DeSean Jackson,32,2008,85,85,97,90,93,89,11.2,3
 WR,Freddie Martino,27,2014,64,60,85,79,89,78,0.5,1
 WR,Justin Watson,23,2018,69,58,92,81,91,62,0.7,4
 END_PLAYERS
-Atlanta Falcons, ATL
+Roy, RHS
 OL,Alex Mack,33,2009,90,93,90,92,93,83,9.0,5
 S,Ricardo Allen,27,2014,84,87,94,81,89,66,6.5,3
 S,Damontae Kazee,25,2017,73,70,94,71,88,68,0.7,4
@@ -1728,7 +1728,7 @@ WR,Julio Jones,29,2011,98,99,93,96,93,90,14.3,5
 WR,Calvin Ridley,24,2018,77,64,90,81,93,85,2.7,4
 WR,Mohamed Sanu,29,2012,81,86,82,82,82,82,6.5,5
 END_PLAYERS
-Los Angeles Rams, LAR
+Riverton, RHS
 OL,Brian Allen,23,2018,66,58,82,81,76,73,0.8,4
 OL,Austin Blythe,26,2016,65,66,93,82,73,70,0.6,4
 OL,John Sullivan,33,2008,78,87,89,86,77,80,5.4,2
@@ -1791,7 +1791,7 @@ WR,Mike Thomas,24,2016,63,60,88,77,88,67,0.6,4
 WR,Kendal Thompson,26,2016,70,70,70,70,70,70,0.5,1
 WR,Robert Woods,26,2013,83,90,92,91,91,76,6.8,5
 END_PLAYERS
-Seattle Seahawks, SEA
+Springville, SHS
 OL,Justin Britt,27,2014,78,90,83,87,74,79,9.0,3
 OL,Joey Hunt,24,2016,65,63,84,88,75,72,0.6,1
 OL,Ethan Pocic,23,2017,69,75,88,83,73,71,1.1,4
@@ -1856,7 +1856,7 @@ WR,Brandon Marshall,34,2006,81,86,97,85,86,64,8.0,4
 WR,David Moore,23,2017,65,52,88,81,91,69,0.5,2
 WR,Keenan Reynolds,25,2016,57,52,91,74,87,67,0.5,1
 END_PLAYERS
-San Francisco 49ers, SF
+Dixie High, DHS
 CB,Greg Mabin,24,2017,68,54,84,75,88,70,0.5,2
 CB,D.J. Reed,22,2018,68,55,85,77,89,60,0.7,4
 CB,Ahkello Witherspoon,23,2017,75,72,91,76,91,52,1.0,4
@@ -1917,7 +1917,7 @@ WR,Richie James,23,2018,68,58,89,78,90,80,0.6,4
 WR,Dante Pettis,23,2018,76,54,91,85,90,86,1.6,4
 WR,Trent Taylor,24,2017,76,68,91,86,86,82,0.7,4
 END_PLAYERS
-Arizona Cardinals, ARZ
+Sky View, SVHS
 OL,Mason Cole,22,2018,67,59,86,79,78,76,0.8,4
 OL,Daniel Munyer,26,2015,60,49,84,78,74,69,0.6,1
 OL,A.Q. Shipley,32,2009,74,86,80,87,72,76,2.0,1
